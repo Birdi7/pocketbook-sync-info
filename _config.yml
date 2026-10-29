@@ -1,0 +1,7 @@
+title: PocketBook Google Books Sync
+description: Загрузка собственных EPUB и PDF из Google Play Books на PocketBook
+theme: jekyll-theme-cayman
+lang: ru
+url: https://birdi7.github.io
+baseurl: /pocketbook-sync-info
+show_downloads: false

@@ -1,2 +1,15 @@
-# pocketbook-sync-info
-Public app information, privacy policy and terms for PocketBook Google Books Sync
+# PocketBook Google Books Sync — информация о приложении
+
+Публичные описание приложения, политика конфиденциальности и условия использования для Google OAuth.
+
+**Сайт:** https://birdi7.github.io/pocketbook-sync-info/
+
+## Страницы
+
+- [Описание приложения](index.md)
+- [Политика конфиденциальности](privacy.md)
+- [Условия использования](terms.md)
+
+GitHub Pages публикуется из корня ветки `main`. Страницы написаны на Markdown; тему и адрес сайта задаёт `_config.yml`.
+
+Этот репозиторий содержит только публичные информационные страницы. Авторизация Google выполняется самим приложением; сайт не получает OAuth-коды, токены или книги.
